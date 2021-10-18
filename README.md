@@ -2,7 +2,7 @@
 Essa atividade faz parte da matéria de Sistemas Distribuídos e tem como objetivo o uso da programação mapreduce e pySpark com o objetivo de processar dados.
 
 
-#Especificação:
+# Especificação:
 
 
 Utilizando PySpark, você deve implementar um algoritmo que:
